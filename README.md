@@ -8,7 +8,7 @@ A data analysis project uncovering the audio features, song length, genres, and 
 
 ---
 
-## TL;DR — Six findings worth remembering
+## Key Findings — Six findings worth remembering
 
 1. **Only 4.8% of tracks are hits.** Out of 114,000 songs, just 5,472 cross the popularity threshold.
 2. **Acousticness is the biggest signal.** Hit songs are 31% less acoustic than non-hits — the largest feature gap of any audio dimension.
