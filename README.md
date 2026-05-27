@@ -45,7 +45,7 @@ Which genres consistently produce hits? Pop dominates at 31.7% hit rate, k-pop a
 
 The headline finding. From the top 5% of all tracks, here's the audio profile of a hit song. The explicit-by-genre chart shows the country reversal — every other genre rewards explicit content, but country cuts hit rate in half.
 
-![The Recipe](images/04_the_recipe.png)
+![The Recipe](images/04_recipe.png)
 
 ---
 
