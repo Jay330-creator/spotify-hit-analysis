@@ -27,7 +27,7 @@ A 4-page Power BI dashboard tells the full story.
 
 The 30,000-foot view. KPIs up top, popularity distribution, hit-vs-non-hit share, top 10 most popular tracks.
 
-![Executive Overview](images/01overview.png)
+![Executive Overview](images/01_overview.png)
 
 ### Page 2 — Hit Anatomy
 
